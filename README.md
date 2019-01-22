@@ -1,3 +1,2 @@
 # Intro
-REAL GITHUB ORG OF ECNU_CS !!!
-SE SUCKS, ANTNLP NB !!!
+Github organization of computer science department in ECNU. AntNLP niubi
