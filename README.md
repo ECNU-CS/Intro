@@ -1,2 +1,3 @@
 # Intro
-introduction of this organization
+REAL GITHUB ORG OF ECNU_CS !!!
+SE SUCKS, ANTNLP NB !!!
